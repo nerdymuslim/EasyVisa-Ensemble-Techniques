@@ -2,7 +2,7 @@
 # EasyVisa-  Ensemble Techniques
 
 
-Project completed as part of Great Learning's Program - Data Science and Business Analytics
+Project completed as part of university of Texas Learning's Program - Data Science and Business Analytics
 
 **Repository includes  files:**
 
